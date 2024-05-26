@@ -1,8 +1,7 @@
 # Create Application Nodejs
 
 ```bash
-npm init
-npm install express body-parser kafkajs
+npm i
 ```
 
 running
